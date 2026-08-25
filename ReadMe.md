@@ -8,6 +8,7 @@ As atividades estão organizadas e separadas por matéria e por TP, facilitando 
 
 A estrutura do repositório segue o seguinte padrão:
 
+```
 .
 ├── Materia 1/
 │   ├── TP01/
@@ -18,6 +19,7 @@ A estrutura do repositório segue o seguinte padrão:
 │   ├── TP02/
 │   └── ...
 └── README.md
+```
 
 
 Cada pasta representa uma matéria, e dentro dela as atividades são separadas por TP.
